@@ -30,3 +30,6 @@ function omitSwearWords (text) {
   let textArray = (text.replace(/(zoinks)|(loopdeeloop)|(muppeteer)|(biffaroni)/ig, ' '));
   return textArray; 
 }
+
+// UI Logic
+
