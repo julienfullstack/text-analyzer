@@ -96,3 +96,10 @@ Code: omitSwearWords("text")
 const text = "zoinks, muppeteer, biffaroni, loopdaloop, hello";
 const word = "hello"
 Expected Output: "hello" 
+
+
+Test: "It should omit 'swear words' regardless of case"
+Code: omitSwearWords("text") 
+const text = "zoinks, muppeteer, biffaroni, loopdaloop, hello";
+const word = "hello"
+Expected Output: "hello" 
