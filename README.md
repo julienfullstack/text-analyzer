@@ -17,11 +17,10 @@ A website which analyzes the number of words in a passage
 ## Description
 A simple website which counts the words inputted by the user
 
-## Set up
-*_Open folder in code editer OR_
-*_Run in any browser*
-_It's really that simple_
+## Setup/Installation Requirements
 
+* _Open folder in code editer OR_
+* _Run in browser_
 ## Known Bugs
 * _No known bugs_
   
