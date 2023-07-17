@@ -24,7 +24,7 @@ _It's really that simple_
 
 ## Known Bugs
 * _No known bugs_
-* 
+  
 ## License
 
 _[MIT](https://choosealicense.com/licenses/mit/)_
